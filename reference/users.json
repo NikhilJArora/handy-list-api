@@ -1,0 +1,13 @@
+{
+  "user_name":"uniquestring",
+  "first_name": "Nikhil",
+  "last_name":"Arora",
+  "email": "",
+  "hashed_password" : "",
+  "events" :
+  {
+    "creator" : [],
+    "member" : [],
+    "invitee" : []
+  }
+}

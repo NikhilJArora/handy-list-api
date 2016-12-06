@@ -1,0 +1,62 @@
+{
+  "event_id" : "uniqueid",
+  "event_name" : "",
+  "date" : "",
+  "event_attributes" :
+  [
+    {
+      "name":"location",
+      "value":"",
+      "description":""
+    },
+    {
+      "name":"budget",
+      "value":"",
+      "description":""
+    },
+    {
+      "name":"",
+      "value":"",
+      "description":""
+    },
+    {
+      "name":"",
+      "value":"",
+      "description":""
+    }
+  ],
+  "tasks" :
+  [
+    {
+      "task_heading": "",
+      "task_category": "",
+      "task_description": "",
+      "task_date": "",
+      "task_subtasks": []
+    },
+    {
+      "task_heading": "",
+      "task_category": "",
+      "task_description": "",
+      "task_date": "",
+      "task_subtasks": []
+    },
+    {
+      "task_heading": "",
+      "task_category": "",
+      "task_description": "",
+      "task_date": "",
+      "task_subtasks": []
+    },
+    {
+      "task_heading": "",
+      "task_category": "",
+      "task_description": "",
+      "task_date": "",
+      "task_subtasks": []
+    }
+  ],
+  "task_categories":[],
+  "members":[],
+  "invitees":[]
+}
