@@ -1,28 +1,28 @@
 {
-  "event_id" : "uniqueid",
+  "_id" : "uniqueid",
   "event_name" : "",
   "date" : "",
   "event_attributes" :
-  [
+  [ 
     {
       "name":"location",
       "value":"",
-      "description":""
+      "details":""
     },
     {
       "name":"budget",
       "value":"",
-      "description":""
+      "details":""
     },
     {
       "name":"",
       "value":"",
-      "description":""
+      "details":""
     },
     {
       "name":"",
       "value":"",
-      "description":""
+      "details":""
     }
   ],
   "tasks" :
